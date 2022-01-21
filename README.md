@@ -1,4 +1,4 @@
 # first-repo
 Webapps assignment
 Sreeja Kumbhum
-I love gardening
+I like gardening
